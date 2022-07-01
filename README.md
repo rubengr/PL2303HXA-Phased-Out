@@ -7,7 +7,7 @@ Use these 8 easy steps to install the driver.
 
 ![](/images/Prolific-pl2303hxa-device-manager-not-recognized.jpg "PL2303HXA Phased out since 2012. Please contact your supplier (SOLVED)")
 
-2. To solve this, you can download the driver here [a relative link](IO-Cable_PL-2303_Drivers-Generic_Windows_PL2303_Prolific.zip).
+2. To solve this, you can download the driver here [Driver](IO-Cable_PL-2303_Drivers-Generic_Windows_PL2303_Prolific.zip).
 
 3. Unzip the archive and Install the driver. Go to the next step.
 
@@ -26,3 +26,6 @@ Use these 8 easy steps to install the driver.
 8. The driver is now installed successfully and is even maintained after a reboot.
 
 ![](/images/Prolific-pl2303hxa-driver-installed-succesfully.jpg "PL2303HXA Phased out since 2012. Please contact your supplier (SOLVED)")
+
+
+Thanks to Roel van Wanrooy, copy from https://www.connectix.nl/pl2303hxa-phased-out-since-2012-please-contact-your-supplier-solved/
