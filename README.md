@@ -21,7 +21,7 @@ Use these 8 easy steps to install the driver.
 
 ![](/images/Prolific-pl2303hxa-Let-me-pick-from-a-list-of-available-drivers-on-my-computer "PL2303HXA Phased out since 2012. Please contact your supplier (SOLVED)")
 
-7. First select “Show compatible hardware” and then select “Prolific USB-to-Serial Comm Port Version 3.3.2.105 [27/10/208]” from the list. Click Next.
+7. First select “Show compatible hardware” and then select “Prolific USB-to-Serial Comm Port Version 3.3.2.105 [27/10/2008]” from the list. Click Next.
 
 8. The driver is now installed successfully and is even maintained after a reboot.
 
